@@ -1,11 +1,11 @@
-# 👋 Xin chào! Tôi là Võ Quốc Tân
+# 👋 Hello! I'm Vo Quoc Tan
 
-🎯 Mục tiêu nghề nghiệp:
-Mobile Developer với định hướng Flutter chuyên sâu.
+🎯 **Career Objective:**  
+Aspiring Mobile Developer with a strong focus on Flutter development.
 
-💼 Kỹ năng:
-- ⚡ Flutter / Dart
-- 🧱 Kiến trúc: Bloc, GetX, Riverpod, Provider
-- 🗃 REST API, JSON, Firebase
-- 🔌 Bluetooth Low Energy (BLE)
-- 🎨 UI/UX
+💼 **Skills:**
+- ⚡ Flutter / Dart  
+- 🧱 State Management & Architecture: Bloc, GetX, Riverpod, Provider  
+- 🗃 RESTful APIs, JSON, Firebase  
+- 🔌 Bluetooth Low Energy (BLE)  
+- 🎨 UI/UX Design  
