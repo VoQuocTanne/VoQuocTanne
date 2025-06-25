@@ -1,15 +1,10 @@
 # 👨‍💻 Vo Quoc Tan — Flutter Developer
 
-## 🎯 Career Objective  
-Motivated and detail-oriented **Fresher Mobile Developer**, specializing in **Flutter**. Eager to contribute to high-impact mobile projects and continuously improve skills in cross-platform development.
-
----
-
 ## 💼 Technical Skills
 
 ### ⚙️ Languages & Frameworks
-- **Languages:** Dart, Java  
-- **Frameworks/SDKs:** Flutter, Firebase (Authentication, Firestore, Cloud Storage), Android SDK  
+- **Languages:** Dart, Java, PHP
+- **Frameworks/SDKs:** Flutter, Firebase (Authentication, Firestore, Cloud Storage), Android SDK, Laravel  
 
 ### 🧱 Architecture & State Management
 - **Architectures:** Clean Architecture, MVC, MVVM  
