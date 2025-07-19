@@ -35,6 +35,3 @@
 - Enhancing user experience through responsive UI and smooth animations  
 - Integration with BLE and real-time data sources  
 
----
-
-> ⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
